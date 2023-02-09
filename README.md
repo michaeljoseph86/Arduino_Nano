@@ -12,12 +12,17 @@
 
 ### Current repository folder structure:
 
-- _3D_Files:_
-  - 3D_PDF_Model.pdf - A 3D model of the PCB (can be viewed using Adobe Acrobat)
-  - 3D_Step_File.step - Step file of the PCB
-- _Board_Assembly:_ Pick and Place file and BOM (LCSC Part # column in BOM must be filled with Part #, JLCPCB Part # if using JLCPCB for manufacturing)
-- _PCB_Manufacturing:_ Gerber output and NC Drill files
-- _Schematic:_ The PDF contains Schematic, PCB view and BOM.
+- _Assembly Drawing_
+- _BOM:_
+- _Bill of Materials_
+- _Firmware:_
+- _GerberX2:_
+- _Images:_
+- _NC Drill:_
+- _PCB:_
+- _3D PDF:_
+- _Pick Place:_
+- _Schematic:_
 
 <p>Note: Most subfolders include an additional README that further describes its contents.</p>
 
