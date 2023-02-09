@@ -10,19 +10,19 @@
 
 ![Tux, the Linux mascot](https://i.imgur.com/XASrbMq.png)
 
-### Current repository folder structure:
+### Repository folder structure:
 
-- _Assembly Drawing_
-- _BOM:_
+- _Assembly Drawing :_ Includes details of component placement on raw PCB
+- _BOM :_ LCSC Part # column in BOM must be filled with Part #, JLCPCB Part # if using JLCPCB for manufacturing
 - _Bill of Materials_
-- _Firmware:_
-- _GerberX2:_
+- _Firmware_
+- _GerberX2_
 - _Images:_
-- _NC Drill:_
-- _PCB:_
-- _3D PDF:_
-- _Pick Place:_
-- _Schematic:_
+- _NC Drill_
+- _PCB_
+- _3D PDF_
+- _Pick Place_
+- _Schematic_
 
 <p>Note: Most subfolders include an additional README that further describes its contents.</p>
 
